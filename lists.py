@@ -17,6 +17,8 @@ for index, name in enumerate(names):
    
 
 names.append('open-source')
+names.append('GSoC')
+names.append('MLH Fellowship')
 
 print(names)
 
