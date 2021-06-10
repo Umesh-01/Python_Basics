@@ -17,8 +17,11 @@ AI, in its current state, could be said to be computers or programs that attempt
 
 # Python Libraries 
 - Pandas
+  For data input points or fetching data (generally data handling). For example, input csv data, tables data, etc. 
 - Numpy
+  For mathematical calculations like matrix multiplication, addition, etc.
 - Matpotlib
+  For plotting different type of graphs and charts.
 
 # Types of Learning
 - Supervised Learning
