@@ -176,9 +176,9 @@ print('Items in list4- ', len(list4))
 
 # famous people
 people = ['Elon Musk', 'Bill Gates', 'Jeff Bezos', 'Steve Jobs']
-people.pop()
-people.pop(1)
-del people[0]
-people.remove('Jeff Bezos')
+people.pop() #pop Steve Jobs
+people.pop(1) #pop Bill Gates
+del people[0] #pop Elon Musk
+people.remove('Jeff Bezos') #pop Jeff Bezos
 print('There is no famous people left in your list.')
 print(people)
