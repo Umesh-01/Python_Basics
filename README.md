@@ -1,6 +1,6 @@
 # Python_Basics
 
-Hello folks,  
-This repository is for basic python programs or just starting up with python programming. 
+Hello folks, <br>
+This repository is for basic python programs or just starting up with python programming.<br>
 
-All the programs are useful examples and they are of beginners' level.
+All the programs are useful examples and they are of beginners' level.<br>
