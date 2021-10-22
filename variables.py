@@ -1,7 +1,7 @@
-var = 'Hello! World.'
+var = 'Hello World!!'
 print(var)
 
-var1 = "Hello! World.'
+var1 = "Open Source"
 print(var1)
 
 var2 = 'this is python'

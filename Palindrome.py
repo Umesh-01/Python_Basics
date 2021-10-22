@@ -5,7 +5,7 @@ def isPalindrome(strp):
  
  
 # Driver code
-strp = "malayalam"
+strp = input("Enter String ")
 ans = isPalindrome(strp)
  
 if ans:
