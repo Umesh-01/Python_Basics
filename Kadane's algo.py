@@ -12,3 +12,10 @@ def maxSubArraySum(a,size):
             max_ending_here = 0  
     return max_so_far
   
+a = list(map(int,input().split(" ")))
+print "Maximum contiguous sum is", maxSubArraySum(a,len(a))
+
+Input -
+-13 -3 -25 -20 -3 -16 -23 -12 -5 -22 -15 -4 -7
+Output -
+Maximum contiguous sum is 7
