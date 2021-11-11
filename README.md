@@ -6,10 +6,3 @@ This repository is for basic python programs or just starting up with python pro
 
 All the programs are useful examples and they are of beginners' level.
 
-<br>
-
-<div align=center>
-
-
-</div>
-
