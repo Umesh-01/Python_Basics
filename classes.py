@@ -1,3 +1,4 @@
+# definition of a class named as Student
 class student():
     def __init__(self, name, rollno):
         self.name = name
@@ -17,6 +18,7 @@ class student():
         print('Marks-', self.marks)
 
 
+# calling a class by creating its object        
 stu = student('Singh', '20BCS8013')
 stu.setAge(10)
 stu.setMarks(90)
