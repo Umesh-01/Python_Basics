@@ -18,8 +18,10 @@ class student():
         print('Marks-', self.marks)
 
 
-# calling a class by creating its object        
+# creating an object for class student        
 stu = student('Singh', '20BCS8013')
+
+# calling different methods of class using its object
 stu.setAge(10)
 stu.setMarks(90)
 stu.display()
