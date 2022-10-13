@@ -1,4 +1,4 @@
-#Python program to count number of occurences of a number in an array
+#Python program to count number of occurrences of a number in an array
 
 #Prompt user for array
 array_num = list(map(int, input("\nEnter array elements: ").split()))
