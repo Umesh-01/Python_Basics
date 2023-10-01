@@ -1,5 +1,4 @@
 # String reversal using recursion
-  
 def reverse(strr):
     if len(strr) == 0:
         return strr
