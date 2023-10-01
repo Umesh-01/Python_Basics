@@ -8,6 +8,5 @@ s = (a + b + c) / 2
 
 # calculating area of the triangle  
 area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
-
 print('The area of the triangle is:', area)   
 
